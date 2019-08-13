@@ -24,7 +24,7 @@ Open this lesson's `index.html` file in your browser and open up the browser's
 console. In the console, enter
 
 ``` javascript
-let element = document.createElement('div');
+c
 ```
 
 Type `element.` (or whatever you named your new element). It's an existing DOM element, but it doesn't yet appear in the DOM.
